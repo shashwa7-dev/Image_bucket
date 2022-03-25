@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cyberpunk Card
+* source:	https://sketchfab.com/3d-models/cyberpunk-card-90d980fb471f440aa1d16866c79c61f7
+* author:	Rodrigo Bento (https://sketchfab.com/rodrigobento)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cyberpunk Card" (https://sketchfab.com/3d-models/cyberpunk-card-90d980fb471f440aa1d16866c79c61f7) by Rodrigo Bento (https://sketchfab.com/rodrigobento) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
